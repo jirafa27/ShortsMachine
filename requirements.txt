@@ -1,0 +1,4 @@
+numpy~=2.2.2
+moviepy~=2.1.2
+gTTS~=2.5.4
+deep-translator~=1.11.4
